@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mjara19
+- 👋 Hi my name is Michael Jara
 - 👀 I’m interested in watching/playing soccer!
 - 🌱 I’m currently learning C and MySQL
 - 📫 How to reach me: mikejara19@gmail.com
