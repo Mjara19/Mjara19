@@ -1,5 +1,5 @@
 - 👋 Hi my name is Michael Jara
-- 👀 I’m interested in watching/playing soccer!
+- 👀 I’m interested in watching/playing soccer and learning how to be a better coder everyday!
 - 🌱 I’m currently learning C and MySQL
 - 📫 How to reach me: mikejara19@gmail.com
 - 😄 Pronouns: He/Him
