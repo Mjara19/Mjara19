@@ -1,6 +1,6 @@
 - 👋 Hi my name is Michael Jara
 - 👀 I’m interested in watching/playing soccer and learning how to be a better coder everyday!
-- 🌱 I’m currently learning C and MySQL
+- 🌱 I’m currently learning C, MySQL, and Pythong
 - 📫 How to reach me: mikejara19@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I went to Japan and visited Osaka, Kyoto, Tokyo!
