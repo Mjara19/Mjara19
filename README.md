@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C and SQL(MySQL)
 - 📫 How to reach me: mikejara19@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I went to Japan and visited Osaka, Kyoto, Tokyo!
+- ⚡ Fun fact: I went to Japan and visited Osaka, Kyoto, and Tokyo!
 
 <!---
 Mjara19/Mjara19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
